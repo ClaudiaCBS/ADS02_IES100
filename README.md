@@ -5,7 +5,7 @@ Atividades da matéria de Engenharia de Software I curso ADS FATEC São José do
 _______________________________________________________________________
 
 
-17/02/2023 (Sexta-feira)
+:hatching_chick: 17/02/2023 (Sexta-feira)
 
 Texto: 
 "We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play.   On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth."
@@ -22,7 +22,7 @@ Em resumo, o trabalho de engenharia de software é mais complexo e desafiador do
 _______________________________________________________________________
 
 
-23/02/2023 (Quinta-feira)
+:hatching_chick: 23/02/2023 (Quinta-feira)
 
 Texto: 
 "Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming  is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
@@ -36,7 +36,7 @@ Em resumo, a engenharia de software é uma disciplina distinta que envolve muito
 _______________________________________________________________________
 
 
-24/02/2023 (Sexta-feira)
+:hatching_chick: 24/02/2023 (Sexta-feira)
 
 Atividade 2: O que são requisitos? Requisitos funcionais? Requisitos não funcionais?
 
@@ -58,7 +58,7 @@ Outro exemplo de trade-off entre requisitos não funcionais é entre desempenho 
 _______________________________________________________________________
 
 
-17/03/2023 (Sexta-feira)
+:hatching_chick: 17/03/2023 (Sexta-feira)
 
 Olhar no teams, no slide 23, um vídeo: https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhIfLI/edit#slide=id.p3
 Escolher um exemplo seguindo o exemplo mostrado pelo professor.
