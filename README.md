@@ -66,3 +66,6 @@ https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhI
 Escolher um exemplo seguindo o exemplo mostrado pelo professor.
 
 
+
+
+
