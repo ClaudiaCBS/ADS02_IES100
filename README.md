@@ -55,3 +55,12 @@ Um exemplo de trade-off entre requisitos não funcionais é entre segurança e u
 Desempenho vs. Escalabilidade:
 Outro exemplo de trade-off entre requisitos não funcionais é entre desempenho e escalabilidade. Um sistema com alto desempenho pode ser otimizado para executar tarefas rapidamente, mas pode ter dificuldade em lidar com muitos usuários simultaneamente, o que pode afetar sua escalabilidade. Por outro lado, um sistema escalável pode ser projetado para lidar com grandes quantidades de usuários, mas pode ter um desempenho mais lento em tarefas específicas. Nesse caso, os engenheiros de software precisam decidir qual é a melhor abordagem para balancear o desempenho e escalabilidade do sistema, levando em consideração as necessidades dos usuários e as exigências de negócios.
 
+_______________________________________________________________________
+
+
+17/03/2023 (Sexta-feira)
+
+Olhar no teams, no slide 23, um vídeo: https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhIfLI/edit#slide=id.p3
+Escolher um exemplo seguindo o exemplo mostrado pelo professor.
+
+
