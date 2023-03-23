@@ -1,6 +1,7 @@
 # Engenharia de Software I
 
-Atividades da matéria - Engenharia de Software I (Curso ADS - FATEC São José dos Campos)
+Atividades da matéria - Engenharia de Software I 
+Curso ADS - FATEC de São José dos Campos
 
 _______________________________________________________________________
 
