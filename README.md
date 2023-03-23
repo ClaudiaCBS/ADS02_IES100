@@ -70,7 +70,7 @@ https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhI
 Fazer um Diagrama de Classes UML seguindo o exemplo apresentado pelo professor em sala de aula.
 
 
-![Diagrama_Classe_UML](https://user-images.githubusercontent.com/112169639/227224896-f6931671-8a87-4ee7-a531-966111496b2d.jpeg)
+![Diagrama_Classe_UML_Dentista](https://user-images.githubusercontent.com/112169639/227226008-2defd0c5-3618-4db2-8366-6ff47d665cff.jpeg)
 
 
 
