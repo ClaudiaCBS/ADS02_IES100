@@ -1,7 +1,7 @@
 # Engenharia de Software I
 
 Atividades da matéria - Engenharia de Software I 
-:desktop_computer: Curso ADS - FATEC de São José dos Campos
+:desktop_computer: # Curso ADS - FATEC de São José dos Campos
 
 _______________________________________________________________________
 
