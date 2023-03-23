@@ -67,7 +67,7 @@ _______________________________________________________________________
 Olhar no teams, no slide 23, um vídeo: 
 https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhIfLI/edit#slide=id.p3
 
-Escolher um exemplo seguindo o exemplo mostrado pelo professor.
+Escolher um exemplo apresentado pelo professor.
 
 
 
