@@ -71,7 +71,7 @@ Fazer um Diagrama de Classes UML seguindo o exemplo apresentado pelo professor e
 
 
 
-![Diagrama_Classe_UML](https://user-images.githubusercontent.com/112169639/228810250-34bc54a2-5139-452c-af2e-37c7b0097515.jpeg)
+![Diagrama_Classe_UML](https://user-images.githubusercontent.com/112169639/228813165-d09a8f9a-b785-4188-8322-e1459d04b9d4.jpeg)
 
 
 
