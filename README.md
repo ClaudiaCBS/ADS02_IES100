@@ -70,14 +70,21 @@ https://docs.google.com/presentation/d/1GMds68vXowb3h_GFtI3fwKeXJQQJjm7L-wL0BJhI
 Fazer um Diagrama de Classes UML seguindo o exemplo apresentado pelo professor em sala de aula.
 
 
-![Diagrama_Classe_UML_Dentista](https://user-images.githubusercontent.com/112169639/227247682-21cae021-a2cd-4367-b586-eae69a944d27.jpeg)
+
+![Diagrama_Classe_UML](https://user-images.githubusercontent.com/112169639/228810250-34bc54a2-5139-452c-af2e-37c7b0097515.jpeg)
+
 
 
 
 _______________________________________________________________________
 
 
-:hatching_chick: 23/03/2023 (Quinta-feira)
+:hatching_chick: 24/03/2023 (Sexta-feira)
+
+Fazer o código do Diagrama de Classes UML descrito acima:
+
+
+
 
 
 
