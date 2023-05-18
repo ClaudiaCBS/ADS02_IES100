@@ -80,7 +80,8 @@ _______________________________________________________________________
 
 :hatching_chick: 24/03/2023 (Sexta-feira)
 
-Fazer o código do Diagrama de Classes UML descrito acima:
+Fazer o código do Diagrama de Classes UML descrito acima.
+🔖 Código se encontra no ([Link da Pasta](doc/sprints/sprint4)).
 
 
 
